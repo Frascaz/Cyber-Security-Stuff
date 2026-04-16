@@ -1,0 +1,1 @@
+hello.zip/hello.txt:$pkzip2$1*2*2*0*19*d*7d14dddd*0*43*0*19*7d14*6169*e4784c6844ad03cbf7baf42147a5cf57db6d82422405a140f8*$/pkzip2$:hello.txt:hello.zip::hello.zip
