@@ -27,12 +27,14 @@ The exercises are organized by folders:
 ### Installing
 
 1. Clone the repository to your local machine: 
+   ```
+   git clone https://github.com/Frascaz/Cyber-Security-Stuff.git
+   ```
 
-   ```git clone https://github.com/Frascaz/Cyber-Security-Stuff.git```
-
-2. Navigate into the directory:
-
-   ```cd Cyber-Security-Stuff```
+3. Navigate into the directory:
+   ```
+   cd Cyber-Security-Stuff
+   ```
 
 ### Executing program
 
