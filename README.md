@@ -26,16 +26,18 @@ The exercises are organized by folders:
 
 ### Installing
 
-1. Clone the repository to your local machine:
-   git clone https://github.com/Frascaz/Cyber-Security-Stuff.git
+1. Clone the repository to your local machine: 
+
+   ```git clone https://github.com/Frascaz/Cyber-Security-Stuff.git```
 
 2. Navigate into the directory:
-   cd Cyber-Security-Stuff
+
+   ```cd Cyber-Security-Stuff```
 
 ### Executing program
 
 1. For Python scripts:
-   python3 script_name.py
+   ```python3 script_name.py```
 
 ## Help
 
